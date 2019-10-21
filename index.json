@@ -1,62 +1,62 @@
 [
 {
-	"uri": "/",
+	"uri": "https://carlosssanchez.github.io/demo/",
 	"title": "",
 	"tags": [],
 	"description": "",
 	"content": " Demo dictionary Search for anything to get started\n"
 },
 {
-	"uri": "/categories/",
+	"uri": "https://carlosssanchez.github.io/demo/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/tags/dentist/",
+	"uri": "https://carlosssanchez.github.io/demo/tags/dentist/",
 	"title": "Dentist",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/tags/discharge/",
+	"uri": "https://carlosssanchez.github.io/demo/tags/discharge/",
 	"title": "Discharge",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/drysocket/",
+	"uri": "https://carlosssanchez.github.io/demo/drysocket/",
 	"title": "Dry Socket - Alveolo Seco",
 	"tags": ["Dentist"],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/tags/er/",
+	"uri": "https://carlosssanchez.github.io/demo/tags/er/",
 	"title": "ER",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/swab/",
+	"uri": "https://carlosssanchez.github.io/demo/swab/",
 	"title": "Swab - (n) Hisopo, (v) Tomar una muestra",
 	"tags": ["ER"],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/tags/",
+	"uri": "https://carlosssanchez.github.io/demo/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/test/",
+	"uri": "https://carlosssanchez.github.io/demo/test/",
 	"title": "Test - (n) Examen, (v) Probar",
 	"tags": ["ER", "Discharge"],
 	"description": "",
