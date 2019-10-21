@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Interpreter Dictionary</title>
-    <link>http://example.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Interpreter Dictionary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dentist</title>
-      <link>http://example.org/tags/dentist/</link>
+      <link>/tags/dentist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/dentist/</guid>
+      <guid>/tags/dentist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discharge</title>
-      <link>http://example.org/tags/discharge/</link>
+      <link>/tags/discharge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/discharge/</guid>
+      <guid>/tags/discharge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ER</title>
-      <link>http://example.org/tags/er/</link>
+      <link>/tags/er/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/er/</guid>
+      <guid>/tags/er/</guid>
       <description></description>
     </item>
     

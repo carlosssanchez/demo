@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/dentist/</loc>
+    <loc>/tags/dentist/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/discharge/</loc>
+    <loc>/tags/discharge/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/drysocket/</loc>
+    <loc>/drysocket/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/er/</loc>
+    <loc>/tags/er/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/swab/</loc>
+    <loc>/swab/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/test/</loc>
+    <loc>/test/</loc>
   </url>
   
 </urlset>
