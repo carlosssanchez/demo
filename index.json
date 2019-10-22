@@ -7,6 +7,13 @@
 	"content": " Demo dictionary Search for anything to get started\nOr click here to browse by category \n"
 },
 {
+	"uri": "https://carlosssanchez.github.io/demo/tags/body-part/",
+	"title": "Body Part",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://carlosssanchez.github.io/demo/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -38,6 +45,13 @@
 	"uri": "https://carlosssanchez.github.io/demo/tags/er/",
 	"title": "ER",
 	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://carlosssanchez.github.io/demo/spleen/",
+	"title": "Spleen - Bazo",
+	"tags": ["Body Part"],
 	"description": "",
 	"content": ""
 },
