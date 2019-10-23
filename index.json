@@ -1,76 +1,76 @@
 [
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/",
+	"uri": "https://dictionary-demo.netlify.com/",
 	"title": "",
 	"tags": [],
 	"description": "",
 	"content": " Demo dictionary Search for anything to get started\nOr click here to browse by category \n"
 },
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/tags/body-part/",
+	"uri": "https://dictionary-demo.netlify.com/tags/body-part/",
 	"title": "Body Part",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/categories/",
+	"uri": "https://dictionary-demo.netlify.com/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/tags/dentist/",
+	"uri": "https://dictionary-demo.netlify.com/tags/dentist/",
 	"title": "Dentist",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/tags/discharge/",
+	"uri": "https://dictionary-demo.netlify.com/tags/discharge/",
 	"title": "Discharge",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/drysocket/",
+	"uri": "https://dictionary-demo.netlify.com/drysocket/",
 	"title": "Dry Socket - Alveolo Seco",
 	"tags": ["Dentist"],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/tags/er/",
+	"uri": "https://dictionary-demo.netlify.com/tags/er/",
 	"title": "ER",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/spleen/",
+	"uri": "https://dictionary-demo.netlify.com/spleen/",
 	"title": "Spleen - Bazo",
 	"tags": ["Body Part"],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/swab/",
+	"uri": "https://dictionary-demo.netlify.com/swab/",
 	"title": "Swab - (n) Hisopo, (v) Tomar una muestra",
 	"tags": ["ER"],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/tags/",
+	"uri": "https://dictionary-demo.netlify.com/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hardcore-shaw-033912.netlify.com/test/",
+	"uri": "https://dictionary-demo.netlify.com/test/",
 	"title": "Test - (n) Examen, (v) Probar",
 	"tags": ["ER", "Discharge"],
 	"description": "",
